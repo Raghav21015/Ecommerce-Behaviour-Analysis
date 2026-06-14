@@ -38,6 +38,20 @@ This project analyzes ecommerce customer behaviour, sales trends, revenue patter
 * `ecommerce_analysis.sql` – SQL queries used for analysis
 * `ecommerce_behavior.csv` – Dataset used in the project
 
+## Project Screenshots
+
+### Revenue by Region
+![Revenue by Region](screenshots/revenue_by_region.png)
+
+### Revenue by Product
+![Revenue by Product](screenshots/revenue_by_product.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
+
+### Delivery Time Distribution
+![Delivery Time Distribution](screenshots/delivery_time_distribution.png)
+
 ## Skills Demonstrated
 
 Python | Pandas | SQL | Data Cleaning | EDA | Data Visualization | Business Analytics
